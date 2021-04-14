@@ -56,4 +56,28 @@ exam_st_date = (11, 12, 2014)
 Sample value of n is 5
 Expected Result : 615
 
+### Question 11
+11. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+Sample function : abs()
+Expected Result :
+abs(number) -> number
+Return the absolute value of the argument.
+
+### Question 12
+12. Write a Python program to print the calendar of a given month and year.
+Note : Use 'calendar' module.
+
+### Question 13
+13. Write a Python program to print the following here document. Go to the editor
+Sample string :
+a string that you "don't" have to escape
+This
+is a ....... multi-line
+heredoc string --------> example
+
+### Question 14
+14. Write a Python program to calculate number of days between two dates.
+Sample dates : (2014, 7, 2), (2014, 7, 11)
+Expected output : 9 days
+
 
