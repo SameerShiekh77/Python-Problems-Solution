@@ -109,4 +109,11 @@ If the given string already begins with "Is" then return the string unchanged.
 ### Question 23
 23. Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2.
 
+### Question 24
+24. Write a Python function that takes a sequence of numbers and determines whether all the numbers are different from each other.
 
+### Question 25
+25. Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the characters exactly once.
+
+### Question 26
+26. Write a Python program to remove and print every third number from a list of numbers until the list becomes empty.
