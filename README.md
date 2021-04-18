@@ -117,3 +117,24 @@ If the given string already begins with "Is" then return the string unchanged.
 
 ### Question 26
 26. Write a Python program to remove and print every third number from a list of numbers until the list becomes empty.
+
+### Question 27
+27. Write a Python program to calculate the length of a string
+
+### Question 28
+28. Write a Python program to count the number of characters (character frequency) in a string
+
+### Question 29
+29. Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string. If the string length is less than 2, 
+return instead of the empty string.
+
+### Question 30
+30.  Write a Python program to get a string from a given string where all occurrences of its first char
+have been changed to '$', except the first char itself.
+
+
+
+
+
+
+
